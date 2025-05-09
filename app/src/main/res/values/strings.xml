@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GameCaro</string>
+
+    <string name="homeTile">Cờ Caro</string>
+    <string name="playButton1">Chơi PvP</string>
+    <string name="playButton2">Chơi PvE</string>
+
+    <string name="PlayerSetupTitle">Nhập tên người chơi</string>
+    <string name="Label1">Người chơi 1</string>
+    <string name="Label2">Người chơi 2</string>
+    <string name="submitButton">Chơi</string>
+    <string name="Namehint">Nhập tên</string>
+
+    <string name="playAgainButton">Chơi lại</string>
+    <string name="homeButton">Home</string>
+</resources>
